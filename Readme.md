@@ -27,7 +27,7 @@ The Big Trip Project is a convenient application for planning your trip.
 ![Change-current](public/img/gif/change-current.gif)  
 *Responsive mobile interface*
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation & Setups
 
 ```bash
 # Clone repository
