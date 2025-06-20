@@ -18,13 +18,13 @@ The Big Trip Project is a convenient application for planning your trip.
 
 ## 🎥 Demo
 
-![Demo project](public/img/gif/demo.gif)  
+![Demo project](/img/gif/demo.gif)  
 *Adding new route points with details*
 
-![Adding Route Points](public/img/gif/add-point.gif)  
+![Adding Route Points](/img/gif/add-point.gif)  
 *Filtering and sorting options*
 
-![Change-current](public/img/gif/change-current.gif)  
+![Change-current](/img/gif/change-current.gif)  
 *Responsive mobile interface*
 
 ## ⚙️ Installation & Setups
