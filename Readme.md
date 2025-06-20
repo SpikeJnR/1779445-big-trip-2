@@ -16,17 +16,6 @@ The Big Trip Project is a convenient application for planning your trip.
 - **Bundler**: Webpack 5
 - **Code Quality**: ESLint, Stylelint
 
-## 🎥 Demo
-
-![Demo project](public/img/gif/demo.gif)  
-*Adding new route points with details*
-
-![Adding Route Points](public/img/gif/add-point.gif)  
-*Filtering and sorting options*
-
-![Change-current](public/img/gif/change-current.gif)  
-*Responsive mobile interface*
-
 ## ⚙️ Installation & Setups
 
 ```bash
