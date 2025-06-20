@@ -1,52 +1,44 @@
-# Проект «Большое путешествие»
+# 🚀 Big Trip v2.0
 
-* Студент: [Vladislav Kazmin](https://up.htmlacademy.ru/ecmascript-individual/2/user/1779445).
-* Наставник: [David Chachanov](https://htmlacademy.ru/profile/id2355549).
+The Big Trip Project is a convenient application for planning your trip.
 
----
+## ✨ Features
+- Add route points with detailed settings
+- Customize date, type, destination, cost, and additional offers
+- Advanced filtering and sorting by day, time and cost
+- Responsive design for all devices
 
-_Не удаляйте и не изменяйте папки и файлы:_
-_`.editorconfig`, `.gitattributes`._
+## 🧩 Technology Stack
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Libraries**:
+  - Day.js for date manipulation
+  - Flatpickr for date/time pickers
+- **Bundler**: Webpack 5
+- **Code Quality**: ESLint, Stylelint
 
----
+## 🎥 Demo
 
-### Памятка
+![Demo project](public/img/gif/demo.gif)  
+*Adding new route points with details*
 
-#### 1. Зарегистрируйтесь на Гитхабе
+![Adding Route Points](public/img/gif/add-point.gif)  
+*Filtering and sorting options*
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+![Change-current](public/img/gif/change-current.gif)  
+*Responsive mobile interface*
 
-#### 2. Создайте форк
+## ⚙️ Installation & Setup
 
-Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
+```bash
+# Clone repository
+git clone https://github.com/your-username/big-trip.git
 
-<img width="769" alt="Press 'Fork'" src="https://cloud.githubusercontent.com/assets/259739/20264045/a1ddbf40-aa7a-11e6-9a1a-724a1c0123c8.png">
+# Install dependencies
+npm install
 
-Получится вот так:
+# Start development server
+npm start
 
-<img width="769" alt="Forked" src="https://cloud.githubusercontent.com/assets/259739/20264122/f63219a6-aa7a-11e6-945a-89818fc7c014.png">
+# Build production version
+npm run build
 
-#### 3. Клонируйте репозиторий на свой компьютер
-
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
-
-<img width="769" alt="SSH" src="https://cloud.githubusercontent.com/assets/259739/20264180/42704126-aa7b-11e6-9ab4-73372b812a53.png">
-
-Клонировать репозиторий можно так:
-
-```
-git clone SSH-адрес_вашего_форка
-```
-
-Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-
-#### 4. Начинайте обучение!
-
----
-
-<a href="https://htmlacademy.ru/intensive/ecmascript"><img align="left" width="50" height="50" title="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/ecmascript/logo-for-github.svg"></a>
-
-Репозиторий создан для обучения на профессиональном курсе «[JavaScript. Архитектура клиентских приложений](https://htmlacademy.ru/intensive/ecmascript)» от [HTML Academy](https://htmlacademy.ru).
-
-[check-image]: https://github.com/htmlacademy-ecmascript/1779445-big-trip-2/workflows/Project%20check/badge.svg?branch=master
-[check-url]: https://github.com/htmlacademy-ecmascript/1779445-big-trip-2/actions
